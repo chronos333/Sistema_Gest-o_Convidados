@@ -6,7 +6,11 @@ btnDark.addEventListener("click", () => {
 });
 
 
+<<<<<<< HEAD
 // 📋 FORMULÁRIO
+=======
+//  FORMULÁRIO
+>>>>>>> 9541970dd4f99803724fc9c9affc88808a4484d9
 let form = document.getElementById("formCadastro");
 
 form.addEventListener("submit", (event) => {
